@@ -4,14 +4,15 @@
   Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Pragya.
 </h1>
-
-<br>
-
-<h3  align = "right">
+<h3  align = "center">
  <b>A passionate and Insightful Data Analyst</b>
 </h3>
 
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+ <br>
+ <br>
+ <br>
+
+<img align="right" alt="Coding" width="430" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
  <h2>
   <img src="https://user-images.githubusercontent.com/74038190/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif" width="50"> About Me :
 </h2>
@@ -20,7 +21,7 @@
    
  - 🔭 Currently sharpening my **Analytical skills**
 
- - 📜 Continuously expanding my skill set in the **World of Data**
+ - 📜 Continuously expanding skill set in the **World of Data**
 
  - 🎯 Aiming to excel as a data-driven **Problem Solver**
  
@@ -63,6 +64,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragya-011&theme=radical&hide=glsl,python" />
 
 <br>
+<br>
+<br>
+
 <h2 dir="auto"><a id="user-content--reach-out-to-me-" class="anchor" href="#-reach-out-to-me-" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" style="max-width: 100%;"></a> <strong>Reach out to me:</strong> </h2>
 
 <p align="center" dir="auto">
