@@ -79,7 +79,5 @@
 </p>
 
 <h2 align="center">
-  <div align="center">
-   Show some ❤️ by starring some of the repositories!
-  </div>
+  Show some ❤️ by starring some of the repositories!
 </h2>
