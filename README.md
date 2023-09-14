@@ -5,9 +5,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Pragya.
 </h1>
 
-<h3  align = "center">
- <b>A passionate and Insightful Data Analyst</b>
-</h3>
+<div style="text-align: center;"> 
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=1800&color=00f200&width=535&lines=Hi,+I'm+Pragya!;A+Passionate+Data+Analyst;+And+A+book+worm;What+about+you?;Let's+connect;for+data+exploration;Checkout+my+projects;navigate+my+data+journey!"  alt="Follow your Dreams!"/>
+</div>
 
  <br>
  <br>
@@ -18,7 +18,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif" width="50"> About Me :
 </h2>
 
- - 🌐 Aspiring to make an impact as a **Data Analyst**
+ - 📊 A passionate and Insightful **Data Analyst**
+  
+ - 🌐 Aspiring to make an **impact**
    
  - 🔭 Currently sharpening my **Analytical skills**
 
@@ -74,6 +76,10 @@
   
 <br>
 
+<br>
+<h3 align="center"> 
+  Visitor count
+<br>
 <p align="center">
   <img src="https://profile-counter.glitch.me/Pragya011/count.svg" alt="Visitor Count">
 </p>
