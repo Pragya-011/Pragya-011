@@ -20,7 +20,7 @@
 
  - 📊 A Passionate and Insightful **Data Analyst**
   
- - 🌐 Aspiring to make an **impact**
+ - 🌐 Aspiring to make an **Impact**
    
  - 🔭 Currently sharpening my **Analytical Skills**
 
