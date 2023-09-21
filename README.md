@@ -1,21 +1,21 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
+![MasterHead](https://github.com/Pragya-011/Pragya-011/assets/118491345/72cf3b69-51d1-45c9-a401-bf9b1c055c6a)
 
 <h1 align = "center">
   Hi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Pragya.
+  <img src="https://github.com/Pragya-011/Pragya-011/assets/118491345/a68df313-64f8-4fd9-a455-1aa672222901" width="30px"/> I'm Pragya.
 </h1>
 
 <div style="text-align: center;"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=1800&color=00f200&width=535&lines=Hi,+I'm+Pragya!;A+Passionate+Data+Analyst;+And+A+book+worm;What+about+you?;Let's+connect;for+data+exploration;Checkout+my+projects;navigate+my+data+journey!"  alt="Follow your Dreams!"/>
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=1800&color=00f200&width=535&lines=Hi,+I'm+Pragya!+👩🏻;A+Passionate+Data+Analyst+📈;+And+A+book+worm+📚;What+about+you?+👤;Let's+connect+🤝;for+data+exploration+💼;Checkout+my+projects!+🗂️;"  alt="Follow your Dreams!"/>
 </div>
 
  <br>
  <br>
  <br>
 
-<img align="right" alt="Coding" width="430" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+<img align="right" alt="Coding" width="430" src="https://github.com/Pragya-011/Pragya-011/assets/118491345/5d343ed2-baef-42f2-a7c2-f7f3b3ab31ff">
  <h2>
-  <img src="https://user-images.githubusercontent.com/74038190/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif" width="50"> About Me :
+  <img src="https://github.com/Pragya-011/Pragya-011/assets/118491345/ea6e9b76-d5f0-46ab-9aad-f5740dc120c5" width="50"> About Me :
 </h2>
 
  - 📊 A Passionate and Insightful **Data Analyst**
@@ -28,7 +28,7 @@
 
  - 🎯 Aiming to excel as a data-driven **Problem Solver**
  
- - 👨‍💻 All of my projects are available at <strong> <a href="https://github.com/Pragya-011" rel="nofollow" >GitHub</a></strong>.
+ - 👩🏻‍💻 All of my projects are available at <strong> <a href="https://github.com/Pragya-011" rel="nofollow" >GitHub</a></strong>.
  
  - 📫 Contact me through <strong> <a href="https://www.linkedin.com/in/pragya011" rel="nofollow" >LinkedIn</a></strong>.
 
@@ -51,13 +51,14 @@
    <a href="https://powerbi.microsoft.com/en-in/desktop/"  > <img src="https://user-images.githubusercontent.com/137817362/266267984-ab3e4a04-0d60-45e1-bf3a-57b038ee1427.png" height="48" alt="PowerBiDesktop" >
     <a href="https://www.microsoft.com/en-in/microsoft-365/excel" > <img src="https://camo.githubusercontent.com/6210c820aedc56cac0ff68310216858a28e267c72fbdc89700167caafe3606f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f6d6963726f736f66742d657863656c2d323031392e706e67" width="50" height="55" > </a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" > <img src="https://camo.githubusercontent.com/c24d399e4e3f39d7d5a118314f185e5974d3eaeb05181054a0ea8bb34f3cc3f5/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d6963726f736f66742d706f776572706f696e742d323031392d2d76312e706e67" width="55" height="55" > </a>
+<p align="center"><img src="https://github.com/Pragya-011/Pragya-011/assets/118491345/f8bad188-b0e1-49b1-a916-401a1cab1164" width="600" ></p>
 
 <br>
 <br>
 <br>
 
 <h2>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Github Stats :  
+  <img src="https://github.com/Pragya-011/Pragya-011/assets/118491345/602305f1-30f5-4825-af20-918a7c6b66c3" width="50"> Github Stats :  
 </h2>
 
 <a href="https://github.com/Pragya-011">
@@ -68,14 +69,13 @@
 <br>
 <br>
 
-<h2 dir="auto"> </a> <img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" > </a> <strong>Reach out to me:</strong> </h2>
+<h2 dir="auto"> </a> <img src="https://github.com/Pragya-011/Pragya-011/assets/118491345/c5c4ac8d-f3bc-4ff8-8a91-fff5bf66d527" width="40" > </a> <strong>Reach out to me:</strong> </h2>
 <p align="center" dir="auto">
 <a href="https://www.linkedin.com/in/pragya011/" > <img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67"  height="50" > </a>
 <a href="mailto:pragyas2016@gmail.com" > <img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67"  height="50" > </a>
 <a href="https://www.hackerrank.com/pragyas2016" > <img src="https://user-images.githubusercontent.com/137817362/266239493-4e65699f-6e11-488f-9af9-f50b54fa5a3f.png"  height="50" ></a>
   
 <br>
-
 <br>
 <h3 align="center"> 
   Visitor count
@@ -83,7 +83,7 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/Pragya011/count.svg" alt="Visitor Count">
 </p>
-
 <h2 align="center">
   Show some ❤️ by starring some of the repositories!
 </h2>
+
