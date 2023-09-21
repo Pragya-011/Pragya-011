@@ -6,19 +6,17 @@
 </h1>
 
 <div style="text-align: center;"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=1800&color=00f200&width=535&lines=Hi,+I'm+Pragya!+👩🏻;A+Passionate+Data+Analyst+📈;+And+A+book+worm+📚;What+about+you?+👤;Let's+connect+🤝;for+data+exploration+💼;Checkout+my+projects!+🗂️;"  alt="Follow your Dreams!"/>
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=1800&color=00f200&width=535&lines=Hi,+I'm+Pragya!+👩🏻;A+Passionate+Data+Analyst+💫;+And+A+book+worm+📚;What+about+you?+👤;Let's+connect+🤝;For+data+exploration+💼;Checkout+my+projects!+🗂️;"  alt="Follow your Dreams!"/>
 </div>
 
  <br>
  <br>
- <br>
-
-<img align="right" alt="Coding" width="430" src="https://github.com/Pragya-011/Pragya-011/assets/118491345/5d343ed2-baef-42f2-a7c2-f7f3b3ab31ff">
  <h2>
   <img src="https://github.com/Pragya-011/Pragya-011/assets/118491345/ea6e9b76-d5f0-46ab-9aad-f5740dc120c5" width="50"> About Me :
 </h2>
+<img align="right" alt="Coding" width="380" src="https://github.com/Pragya-011/Pragya-011/assets/118491345/5d343ed2-baef-42f2-a7c2-f7f3b3ab31ff">
 
- - 📊 A Passionate and Insightful **Data Analyst**
+ - 📊 A Diligent and Insightful **Data Analyst**
   
  - 🌐 Aspiring to make an **Impact**
    
