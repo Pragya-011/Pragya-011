@@ -34,19 +34,22 @@
 <br>
 <br>
 
- <h2 dir="auto"> <img src="https://github.com/user-attachments/assets/b352ff8c-1ac5-4cfe-8b1e-b3736a19eec7" width="40" > <strong>Languages &amp; Tools:</strong></h2>
+ <h2 dir="auto"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJ4NjJpNXBubHd1aXBxMDdkcDJ3aHFhbjVxMWZxanhhbzdzdjd3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="55" > <strong>Languages &amp; Tools:</strong></h2>
  
  <p align="center">  
     <a href="https://www.python.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" height="50" > </a> 
-   <a href="https://numpy.org/doc/stable/index.html"> <img src="https://user-images.githubusercontent.com/137817362/266224257-b20f32fc-6cfe-48fe-8ef0-68c45373be61.png"  alt="numpy"  height="50" > </a>
-   <a href="https://pandas.pydata.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" > </a> 
+   <a href="https://numpy.org/doc/stable/index.html"> <img src="https://github.com/user-attachments/assets/66ff3e8f-9217-4862-9472-fcd700342244"  alt="numpy"  height="47" > </a>
     <a href="https://matplotlib.org/stable/index.html" > <img src="https://user-images.githubusercontent.com/137817362/266225645-03569596-3262-411a-af13-1b678c60a2e1.png" alt="Matplotlib" width="50" height="50" > </a>
+   <a href="https://pandas.pydata.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" > </a>
     <a href="https://seaborn.pydata.org/" > <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="55" > </a>
-    <a href="https://www.mysql.com/" > <img src="https://user-images.githubusercontent.com/137817362/266228834-b2263294-73a0-4c3f-a7e0-0c20609a7578.png"  alt="MySQL" width="50" height="50"> </a>
-    <a href="https://scikit-learn.org/stable/user_guide.html" > <img src="https://user-images.githubusercontent.com/137817362/266236281-b7d10478-13a6-4747-bdf2-612e4256c615.png"  alt="Sklearn"  height="50"> </a>
-   <a href="https://aws.amazon.com/?nc2=h_lg" > <img src="https://user-images.githubusercontent.com/137817362/266250670-4058ba47-c3a0-4835-a4e2-002402175cca.png" alt="AWS"  height="40"> </a>
-    <a href="https://www.selenium.dev/documentation/" > <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="AWS"  height="47"> </a>
-   <a href="https://powerbi.microsoft.com/en-in/desktop/"  > <img src="https://user-images.githubusercontent.com/137817362/266267984-ab3e4a04-0d60-45e1-bf3a-57b038ee1427.png" height="48" alt="PowerBiDesktop" >
+    <a href="https://www.mysql.com/" > <img src="https://user-images.githubusercontent.com/137817362/266228834-b2263294-73a0-4c3f-a7e0-0c20609a7578.png"  alt="MySQL" width="45" height="47"> </a>
+   <a href="https://powerbi.microsoft.com/en-in/desktop/"  > <img src="https://user-images.githubusercontent.com/137817362/266267984-ab3e4a04-0d60-45e1-bf3a-57b038ee1427.png" height="46" alt="PowerBiDesktop" </a>
+    <a href="https://scikit-learn.org/stable/user_guide.html" > <img src="https://user-images.githubusercontent.com/137817362/266236281-b7d10478-13a6-4747-bdf2-612e4256c615.png"  alt="Sklearn"  height="47"> </a>
+     <a href="https://www.selenium.dev/documentation/" > <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium"  height="43" > </a>
+   <a href="https://www.mongodb.com/" > <img src="https://github.com/user-attachments/assets/bb970333-9149-4d5e-a81d-042f3e2a6a82" alt="MongoDB"  height="55" width="50" > </a>
+    <a href="https://aws.amazon.com/?nc2=h_lg" > <img src="https://user-images.githubusercontent.com/137817362/266250670-4058ba47-c3a0-4835-a4e2-002402175cca.png" alt="AWS"  height="37"> </a>
+   
+   
 
 <br>
 <br>
